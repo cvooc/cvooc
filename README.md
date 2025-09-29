@@ -8,5 +8,5 @@
 - 💬 Ask me about anything, I am happy to help;
 
 **📫 How to reach me:**
-  - **QQ:** retrocode
+  - **QQ-QID:** cvooc
   - **Email:** cvooc@qq.com
