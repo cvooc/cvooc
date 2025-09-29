@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @ShowMeBaby
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ShowMeBaby/ShowMeBaby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @cvooc
+- 👀 I’m interested in Java, VueJs, FullStack Engineering, AI.
+- 🌱 I’m currently learning rust.
+- 📫 How to reach me? Email: cvooc@qq.com
