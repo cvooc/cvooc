@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @cvooc
-- 👀 I’m interested in Java, VueJs, FullStack Engineering, AI.
-- 🌱 I’m currently learning rust.
+- 👀 I’m interested in Java, VueJs, uni-app, FullStack Engineering, AI.
+- 🌱 I’m currently learning Rust.
 - 📫 How to reach me? Email: cvooc@qq.com
