@@ -8,5 +8,5 @@
 - 💬 Ask me about anything, I am happy to help;
 
 **📫 How to reach me:**
-  - **QQ-QID:** cvooc
+  - **QQ-QID:** [cvooc](https://foo.run/s/qq)
   - **Email:** cvooc@qq.com
