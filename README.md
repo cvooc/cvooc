@@ -3,7 +3,7 @@
 **🍓 Talking about Personal Stuffs:**
 
 - 👋 Hi, I’m @cvooc
-- 👀 I’m interested in Java, VueJs, uni-app, FullStack Engineering, AI.
+- 👀 I’m interested in Java, VueJs, uni-app, php, golang, FullStack Engineering, AI.
 - 🌱 I’m currently learning Rust.
 - 💬 Ask me about anything, I am happy to help;
 
